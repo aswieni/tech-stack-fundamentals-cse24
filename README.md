@@ -2,10 +2,9 @@
 
 ## 👨‍🏫 Session Conductors
 
-<a href="https://github.com/HimathX"><img src="https://github.com/HimathX.png" width="60" height="60" style="border-radius:50%" alt="HimathX"/></a>
-<a href="https://github.com/SuhasDissa"><img src="https://github.com/SuhasDissa.png" width="60" height="60" style="border-radius:50%" alt="SuhasDissa"/></a>
-<a href="https://github.com/NipunSGeeTH"><img src="https://github.com/NipunSGeeTH.png" width="60" height="60" style="border-radius:50%" alt="NipunSGeeTH"/></a>
-<a href="https://github.com/Kalana-Pankaja"><img src="https://github.com/Kalana-Pankaja.png" width="60" height="60" style="border-radius:50%" alt="Kalana-Pankaja"/></a>
+| [![HimathX](https://github.com/HimathX.png?size=100)](https://github.com/HimathX) | [![SuhasDissa](https://github.com/SuhasDissa.png?size=100)](https://github.com/SuhasDissa) | [![NipunSGeeTH](https://github.com/NipunSGeeTH.png?size=100)](https://github.com/NipunSGeeTH) | [![Kalana-Pankaja](https://github.com/Kalana-Pankaja.png?size=100)](https://github.com/Kalana-Pankaja) |
+|:---:|:---:|:---:|:---:|
+| **[HimathX](https://github.com/HimathX)** | **[SuhasDissa](https://github.com/SuhasDissa)** | **[NipunSGeeTH](https://github.com/NipunSGeeTH)** | **[Kalana-Pankaja](https://github.com/Kalana-Pankaja)** |
 
 ---
 
