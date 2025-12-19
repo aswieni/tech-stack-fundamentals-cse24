@@ -247,5 +247,35 @@
     "grade": "C",
     "last_updated": "2025-12-19 08:28 UTC",
     "submission_count": 1
+  },
+  "Dinisuru_Sangadith": {
+    "student": "Dinisuru_Sangadith",
+    "file_structure": 10,
+    "semantic_html": 20,
+    "functionality": 25,
+    "design": 9,
+    "responsive": 8,
+    "issues": [
+      "\u26a0\ufe0f No grid/flex layout",
+      "\u26a0\ufe0f No hover effects",
+      "\u274c No media queries - not responsive"
+    ],
+    "total": 72,
+    "grade": "C",
+    "last_updated": "2025-12-19 15:48 UTC",
+    "submission_count": 1
+  },
+  "Shavini_Kaveesha": {
+    "student": "Shavini_Kaveesha",
+    "file_structure": 10,
+    "semantic_html": 20,
+    "functionality": 23,
+    "design": 22,
+    "responsive": 14,
+    "issues": [],
+    "total": 89,
+    "grade": "B",
+    "last_updated": "2025-12-19 17:10 UTC",
+    "submission_count": 1
   }
 }
